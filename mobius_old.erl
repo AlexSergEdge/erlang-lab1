@@ -1,4 +1,4 @@
--module(mobius).
+-module(mobius_old).
 -export([is_prime/1]).
 -export([prime_factors/1]).
 -export([next_prime_number/1]).
@@ -6,7 +6,6 @@
 -export([find_square_multiples/2]).
 -export([test_time/0]).
 -import(io, [format/1]).
-
 
 % check if number is prime
 is_prime(N) ->
@@ -45,29 +44,21 @@ is_square_multiple(N) ->
     FactorsList = prime_factors(N),
     erlang:length(FactorsList) =/= sets:size(sets:from_list(FactorsList)).
 
-
-% finds sequence of square multiples with length of Count and with numbers less than MaxN 
+%
 find_square_multiples(Count, MaxN) ->
-	find_square_multiples_helper(0, 0, 0, Count, MaxN).
-find_square_multiples_helper(CurrNum, FirstNum, FoundCount, Count, MaxN) when CurrNum =< MaxN, FoundCount < Count ->
-	IsSquareMultiple = is_square_multiple(CurrNum),
-	if
-		IsSquareMultiple == true ->
-			% if it is square multiple
-            if
-                % Case it is first square multiple met, pass it as first num in sequence
-				FirstNum == 0 -> find_square_multiples_helper(CurrNum + 1, CurrNum, FoundCount + 1, Count, MaxN);
-				% Else first num is not changed
-                true -> find_square_multiples_helper(CurrNum + 1, FirstNum, FoundCount + 1, Count, MaxN)
-			end;
-		true ->
-            % If not - pass First num as 0 again
-			find_square_multiples_helper(CurrNum + 1, 0, 0, Count, MaxN)
-	end;
-find_square_multiples_helper(_, FirstNum, FoundCount, Count, _) when FoundCount == Count ->
-	FirstNum;
-find_square_multiples_helper(_, _, _, _, _) ->
-	fail.
+    find_square_multiples_helper(Count, MaxN, 2, []).
+find_square_multiples_helper(Count, MaxN, CurrNum, List) when Count < 0 ->
+    if
+        CurrNum > MaxN + 1 -> fail;
+        true -> List %lists:last(lists:reverse(List))
+    end;
+find_square_multiples_helper(Count, MaxN, CurrNum, List) ->
+    NumIsSquareMultiple = is_square_multiple(CurrNum),
+    if
+        NumIsSquareMultiple == true -> find_square_multiples_helper(Count - 1, MaxN, CurrNum + 1, [CurrNum|List]);
+        true -> find_square_multiples_helper(Count, MaxN, CurrNum + 1, List)
+    end.
+
 
 test_time() ->
     {Time, _} = timer:tc(mobius,find_square_multiples,[4, 30000]),

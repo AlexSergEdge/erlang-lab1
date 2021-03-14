@@ -2,7 +2,7 @@
 -export([generate/1]).
 -export([gen_print/1]).
 -export([sieve/0]).
-
+-export([test_time/0]).
 
 % Get prime numbers list
 generate(MaxN) ->
@@ -60,3 +60,13 @@ gen_print(MaxN) ->
         fun (X) -> io:format("~w\n", [X]) end, 
         Prime_list
     ).
+
+% proc_sieve:test_time().
+% Time for 10K: 241000
+% Time for 100K: 6543000
+% ok
+test_time() ->
+    {Time, _} = timer:tc(proc_sieve,generate,[10000]),
+    io:fwrite("Time for 10K: ~w~n", [Time]),
+    {Time2, _} = timer:tc(proc_sieve,generate,[100000]),
+    io:fwrite("Time for 100K: ~w~n", [Time2]).

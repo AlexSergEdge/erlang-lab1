@@ -72,7 +72,7 @@ find_square_multiples_helper(_, _, _, _, _) ->
 test_time() ->
     {Time, _} = timer:tc(mobius,find_square_multiples,[4, 30000]),
     io:fwrite("Time for 4: ~w~n", [Time]),
-    {Time, _} = timer:tc(mobius,find_square_multiples,[5, 30000]),
-    io:fwrite("Time for 5: ~w~n", [Time]),
-    {Time, _} = timer:tc(mobius,find_square_multiples,[6, 30000]),
-    io:fwrite("Time for 6: ~w~n", [Time]).
+    {Time2, _} = timer:tc(mobius,find_square_multiples,[5, 30000]),
+    io:fwrite("Time for 5: ~w~n", [Time2]),
+    {Time3, _} = timer:tc(mobius,find_square_multiples,[6, 30000]),
+    io:fwrite("Time for 6: ~w~n", [Time3]).

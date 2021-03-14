@@ -37,9 +37,17 @@ ok
 > mobius:find_square_multiples(6, 30000). 
 22020
 
-Время выполнения каждой из функций крайне мало (менее 1 мс):
+Время выполнения показано ниже:
 > mobius:test_time().                            
-Time for 4: 0
-Time for 5: 0
-Time for 6: 0
+Time for 4: 1000
+Time for 5: 4000
+Time for 6: 216000
 ok
+
+Запуск:
+erl
+> c(fib.erl).
+> fib:test_fib_p(20, 5).
+> fib:test_tail_fib().
+> c(mobius.erl).
+> mobius:test_time().

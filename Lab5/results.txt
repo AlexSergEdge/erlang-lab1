@@ -1,0 +1,370 @@
+Пример с cnn.com
+
+1> rss_queue:start("http://rss.cnn.com/rss/cnn_topstories.rss").                                
+<0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2> 
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.44.0>:  Added 69 feed items to queue with id: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2> 
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:48 ===
+rss_queue <0.32.0>:  New found!!! ID: <0.32.0>
+2>
+=INFO REPORT==== 28-Mar-2021::15:54:50 ===
+rss_queue <0.44.0>:  Added 69 feed items to queue with id: <0.32.0>
+2>
+
+
+Пример с bbc.co.uk
+
+13> rss_queue:start("http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml").
+<0.122.0>
+14> \
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14> 
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.123.0>:  Added 47 feed items to queue with id: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14> 
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14> 
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:47:50 ===
+rss_queue <0.122.0>:  New found!!! ID: <0.122.0>
+14>
+=INFO REPORT==== 28-Mar-2021::15:49:20 ===
+rss_queue <0.115.0>:  Added 47 feed items to queue with id: <0.114.0>

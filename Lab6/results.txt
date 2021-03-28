@@ -1,0 +1,427 @@
+Тест:
+
+rss_queue:start(bbc,"http://feeds.bbci.co.uk/news/rss.xml"), rss_queue:start(cnn,"http://rss.cnn.com/rss/cnn_topstories.rss").
+
+
+2> rss_queue:start(bbc,"http://feeds.bbci.co.uk/news/rss.xml"), rss_queue:start(cnn,"http://rss.cnn.com/rss/cnn_topstories.rss").      
+{ok,<0.51.0>}
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3> 
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.50.0>:  Added N=67 items from the feed to <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3> 
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3> 
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3> 
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3> 
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3> 
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3> 
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3> 
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.38.0>:  New item <0.38.0>
+3> 
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3> 
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.52.0>:  Added N=69 items from the feed to <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3> 
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3> 
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3> 
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3> 
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:05 ===
+rss_queue <0.51.0>:  New item <0.51.0>
+3>
+=INFO REPORT==== 28-Mar-2021::17:01:15 ===
+rss_queue <0.50.0>:  Added N=67 items from the feed to <0.38.0>
+3> 
+=INFO REPORT==== 28-Mar-2021::17:01:15 ===
+rss_queue <0.52.0>:  Added N=69 items from the feed to <0.51.0>

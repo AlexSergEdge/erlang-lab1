@@ -1,0 +1,143 @@
+16> rss_queue:add_news(example2.xml, example1.xml).
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.90.0>:  Added N=40 items from the feed to <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  Sent rss items to <0.90.0>
+ok
+
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.90.0>:  Added N=40 items from the feed to <0.92.0>
+17>
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+17>
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+17>
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  New item <0.92.0>
+17>
+=INFO REPORT==== 28-Mar-2021::14:10:12 ===
+rss_queue <0.92.0>:  Updated item <0.92.0>

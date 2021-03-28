@@ -76,3 +76,7 @@ test_time() ->
     io:fwrite("Time for 5: ~w~n", [Time2]),
     {Time3, _} = timer:tc(mobius,find_square_multiples,[6, 30000]),
     io:fwrite("Time for 6: ~w~n", [Time3]).
+
+%> c(mobius.erl).
+%> mobius:test_time().
+%> mobius:find_square_multiples(3,50).

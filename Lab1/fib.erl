@@ -45,3 +45,11 @@ test_fib_p_helper(Curr, Inc, _) ->
 test_tail_fib()->
     {Time, _} = timer:tc(fib,tail_fib,[10000]),
     io:fwrite("Time: ~w~n", [Time]).
+
+
+%> c(fib.erl).
+%> fib:test_fib_p(20, 5).
+%> fib:test_tail_fib().
+%> fib:fib_p(10).
+%> fib:fib_d(10).
+%> fib:fib_tail(10)

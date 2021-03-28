@@ -15,7 +15,7 @@ generate_helper(_, _, Proc_id) ->
 	Proc_id ! {done, self()},  % send done to process
 	receive  % got list of prime numbers
 		{result, List} -> List;
-		_ -> {error, "Error"}
+		_ -> fail
 	end.
 
 % Process function
@@ -61,7 +61,8 @@ gen_print(MaxN) ->
         Prime_list
     ).
 
-% proc_sieve:test_time().
+%>c(proc_sieve.erl)
+%>proc_sieve:test_time().
 % Time for 10K: 241000
 % Time for 100K: 6543000
 % ok
